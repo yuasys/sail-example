@@ -1,3 +1,11 @@
+# README　このリポジトリについて
+
+このリポジトリはlaravel開発環境をdocker技術で構築したものをスタートにして、laravelを勉強する過程を記録することを目的にしています。
+
+1. [この動画](https://youtu.be/FpbPYF0Zp1w?si=pz2BEZrd6u0cH2a2)にも基づいてdocker版laravelローカル開発環境を構築しました
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
