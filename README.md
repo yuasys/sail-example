@@ -2,7 +2,7 @@
 
 このリポジトリはlaravel開発環境をdocker技術で構築したものをスタートにして、laravelを勉強する過程を記録することを目的にしています。
 
-1. [この動画](https://youtu.be/FpbPYF0Zp1w?si=pz2BEZrd6u0cH2a2)にも基づいてdocker版laravelローカル開発環境を構築しました
+1. [この動画](https://youtu.be/FpbPYF0Zp1w?si=pz2BEZrd6u0cH2a2)にも基づいてdocker版laravelローカル開発環境を構築し、Laravel初期画面がブラウザで確認できた時点でこのリポジトリを保管し、GitHubにプッシュしました
 
 
 
